@@ -2073,6 +2073,7 @@ fieldset:disabled a.btn {
       box-shadow: 0 0 0 0.2rem rgba(108, 117, 125, 0.5); }
 
 .btn-success {
+  margin-top: 1.5rem;
   color: #fff;
   background-color: #28a745;
   border-color: #28a745; }
@@ -7619,6 +7620,12 @@ header {
 
 .titleTextColor {
   color: darkgreen !important;
+}
+.button1{
+  background-color: green;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
 }
 
 .slider-item {
