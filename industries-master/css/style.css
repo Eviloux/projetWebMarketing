@@ -7617,6 +7617,10 @@ header {
     height: calc(50vh - 117px);
     min-height: 550px; }
 
+.titleTextColor {
+  color: darkgreen !important;
+}
+
 .slider-item {
   background-size: cover;
   background-repeat: no-repeat;
