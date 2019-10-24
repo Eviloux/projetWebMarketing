@@ -7640,7 +7640,7 @@ header {
     background: linear-gradient(to bottom, black 0%, rgba(145, 232, 66, 0) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#91e842', GradientType=0 ); }
   .slider-item .slider-text {
-    color: #fff;
+    color:#fff;
     height: calc(100vh);
     min-height: 700px; }
     .slider-item .slider-text .child-name {
