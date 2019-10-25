@@ -140,12 +140,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #fd5f00;
+  color: pink;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #b14200;
+    color: pink;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -2023,9 +2023,9 @@ fieldset:disabled a.btn {
   pointer-events: none; }
 
 .btn-primary {
-  color: #fff;
-  background-color: #fd5f00;
-  border-color: #fd5f00; }
+  color: darkorange;
+  background-color: darkorange;
+  border-color: darkorange; }
   .btn-primary:hover {
     color: #fff;
     background-color: #d75100;
@@ -2080,8 +2080,17 @@ fieldset:disabled a.btn {
   color: saddlebrown;
 
 }
+.para{
+    padding-bottom: 1rem;
+    font-style: gras;
+}
+.xx {
+    color: white;
+    text-align: center;
+}
+
 .btn-success {
-  margin-top: 1.5rem;
+  margin-top: 0.2rem;
   color: #fff;
   background-color: #28a745;
   border-color: #28a745; }
@@ -7299,7 +7308,9 @@ h1, h2, h3, h4, h5 {
   color: #000;
   line-height: 1.5;
   font-family: "Montserrat", sans-serif;
-  font-weight: 900; }
+  font-weight: 900;
+
+}
 
 .btn, .form-control {
   outline: none;
@@ -7323,8 +7334,10 @@ textarea.form-control {
   letter-spacing: .2em;
   font-weight: 900; }
   .btn.btn-primary {
-    color: #fff;
-    border-width: 2px; }
+    color: white;
+    border-width: 2px;
+  margin-top: 2rem;
+  }
     .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
       border-color: #ff7e31;
       background: #ff7e31; }
