@@ -1,0 +1,3 @@
+Disallow : /menu.html
+Disallow : /footer.html
+
