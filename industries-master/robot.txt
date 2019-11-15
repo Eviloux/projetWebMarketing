@@ -1,4 +1,4 @@
 Disallow : /menu.html
 Disallow : /footer.html
 
-sitemap:https://eviloux.github.io/projetWebMarketing/industries-master/sitemap.xml
+Sitemap:https://eviloux.github.io/projetWebMarketing/industries-master/sitemap.xml
